@@ -1,0 +1,7 @@
+1/2. HTML 5 & CSS 3
+3/4. Bootstrap 4
+5/6. Mobile
+7/8. Plugin
+9/10. CI CRUD
+11/12. CI Import Exel dan PDF
+13/14. Implementasi Website
